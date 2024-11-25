@@ -2,16 +2,12 @@
 
 ###
 
-<p align="left">My name is Christian and I'm a Sr. Developer, from Italy</p>
+My name is [CrystianYYT](https://crystianyyt.ltervista.org) and I'm a Sr. Developer, from Italy
 
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...<br>[CrystianYYT](https://crystianyyt.ltervista.org)</p>
-
+I have 20 years old and i'm a Sr. Developer for a community: [EneryMC](https://discord.enerymc.it)
 ###
 
 <h2 align="left">I code with</h2>
