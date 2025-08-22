@@ -2,7 +2,7 @@
 
 ###
 
-My name is [CrystianYYT](https://crystianyyt.ltervista.org) and I'm a Sr. Developer, from Italy
+My name is [CrystianYYT](https://crystianyyt.ltervista.org) and I'm a Jr. Developer, from Italy
 
 ###
 
