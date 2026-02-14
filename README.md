@@ -1,4 +1,4 @@
-<h1 align="left">Hi there!👋</h1>
+<h1 align="left">Hello! :)</h1>
 
 ###
 
@@ -7,7 +7,7 @@ My name is [CrystianYYT](https://crystianyyt.ltervista.org) and I'm a Jr. Develo
 ###
 
 <h2 align="left">About me</h2>
-I have 20 years old and i'm a Sr. Developer for a community: [EneryMC](https://discord.enerymc.it)
+I have 20 years old and I like pizza.
 ###
 
 <h2 align="left">I code with</h2>
