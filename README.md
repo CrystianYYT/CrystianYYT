@@ -8,7 +8,6 @@ My name is [CrystianYYT](https://crystianyyt.ltervista.org) and I'm a Jr. Develo
 
 <h2 align="left">About me</h2>
 I have 20 years old and I like pizza.
-###
 
 <h2 align="left">I code with</h2>
 
